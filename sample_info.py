@@ -22,9 +22,13 @@ COLLECTION_NAME = 'channel_files'  # If you are using the same database, then us
 
 # Messages
 START_MSG = """
-**Hi, I'm Media Search bot**
+**Hi, I'm a Simple Inline Notes & Movies Provider Bot**
 
-Here you can search files in inline mode. Just press follwing buttons and start searching.
+**Developer : @Animesh_941 😇**
+`This bot shows all the results related to educational notes + Movies`
+**✅ So Join them Now : @MoviesAdda_0000 & @Librarian_Notes_Bot**
+
+Here you can search files in inline mode. Just press following buttons and start searching.
 """
 
-SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
+SHARE_BUTTON_TEXT = 'Checkout {username} for searching files, **Also Join @Channel_Librarian 💝**' 
